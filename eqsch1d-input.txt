@@ -1,0 +1,16 @@
+10000 ! number of points
+0.50 ! x in
+5.5 ! x out
+-70.10  ! initial energy
+3 ! lpot 1-> free particle, 2->square well 3-> lenard jones
+2 ! lint 1-> simetric discretization, 2->numerov method
+200.0 ! the width of the square well and value of epsilon for the lenard jones
+0.5 ! denergy
+0.0000001 ! limit energy
+1.4 ! x of the meet point
+0.0 1.0  ! psi0 and psi prime 0
+2
+
+
+1.0 0.0
+0.0 1.0 
